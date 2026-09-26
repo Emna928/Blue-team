@@ -49,6 +49,11 @@ This repository contains practical projects and hands-on labs from my cybersecur
   <h3>Disk forensics</h3>
 
   [Adversary emulation and detection:Operation Constantine](https://github.com/Emna928/Adversary-Emulation-and-detection)
+
+  <h3>Splunk based analysis sceanrios </h3>
+
+  [Golden Phantom operation detection](https://github.com/Emna928/GoldenPhantom-operation-detection-)<br>
+  [Midnight Blizzard vs Micrososft A nation state investigation](Midnight-Blizzard-vs.-Microsoft-A-Nation-State-Investigation)
 <!--
 **EmnaAllegui/EmnaAllegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
